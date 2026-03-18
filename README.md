@@ -18,7 +18,8 @@ To design a basic mobile and web layout for an existing case study.
 4.Create and integrate a brand logo using Canva with proper styling guidelines.
 
 ## Output:
-a. Gestalt Principles (Logo Design)
+
+### a. Gestalt Principles (Logo Design)
 
 Proximity: Text and burger icon are grouped in a circular badge.
 
@@ -28,7 +29,7 @@ Figure-Ground: White burger stands out on orange background.
 
 Closure: Circular shape gives a complete, unified look.
 
-b. UI Elements & Design Patterns (Logo)
+### b. UI Elements & Design Patterns (Logo)
 
 Circular badge layout
 
@@ -38,7 +39,7 @@ Curved text (“FoodieGo” and “Burger Shop”)
 
 Minimal and clean design for easy recognition
 
-c. Interaction & Usability (Logo Usage)
+### c. Interaction & Usability (Logo Usage)
 
 Scalable for mobile app icons, websites, and packaging
 
@@ -48,7 +49,7 @@ High contrast ensures readability
 
 Consistent branding across platforms
 
-d. Logo Design (Canva)
+### d. Logo Design (Canva)
 
 Orange and white color scheme
 
